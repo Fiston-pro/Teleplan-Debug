@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Teleplan-Debug/static/css/main.7c90efc5.chunk.css",
+    "main.js": "/Teleplan-Debug/static/js/main.d2b2d1aa.chunk.js",
+    "main.js.map": "/Teleplan-Debug/static/js/main.d2b2d1aa.chunk.js.map",
+    "runtime-main.js": "/Teleplan-Debug/static/js/runtime-main.4019538b.js",
+    "runtime-main.js.map": "/Teleplan-Debug/static/js/runtime-main.4019538b.js.map",
+    "static/js/2.007a2a07.chunk.js": "/Teleplan-Debug/static/js/2.007a2a07.chunk.js",
+    "static/js/2.007a2a07.chunk.js.map": "/Teleplan-Debug/static/js/2.007a2a07.chunk.js.map",
+    "index.html": "/Teleplan-Debug/index.html",
+    "static/css/main.7c90efc5.chunk.css.map": "/Teleplan-Debug/static/css/main.7c90efc5.chunk.css.map",
+    "static/js/2.007a2a07.chunk.js.LICENSE.txt": "/Teleplan-Debug/static/js/2.007a2a07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4019538b.js",
+    "static/js/2.007a2a07.chunk.js",
+    "static/css/main.7c90efc5.chunk.css",
+    "static/js/main.d2b2d1aa.chunk.js"
+  ]
+}
