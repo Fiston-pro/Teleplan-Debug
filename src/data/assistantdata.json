@@ -1,0 +1,25 @@
+{
+    "question": "Does it Power Up",
+    "yes":{},
+    "no":{
+        "question":"Are the wires connected well",
+        "yes":{
+            "question":"Open the unit and check if there is visible damage around power supply",
+            "yes":{
+                "question":"Change that Component and start over",
+                "yes":{},
+                "no":{}
+            },
+            "no":{
+                "question":"Check for short using schematics in primary and secondary circuit",
+                "yes":{},
+                "no":{}
+            }
+        },
+        "no":{
+            "question":"Connect them well and Start over",
+            "yes":{},
+            "no":{}
+        }
+    }
+}
