@@ -4,11 +4,11 @@ import ExpandCard from './card';
 
 const data = [
     {
-        title: "How to Factory Reset",
+        title: "How to do Factory Reset",
         content: "Connect the unit to the power source, then you will reach a blue screen. when it goes blank press home key go down to settings press on remote 0,0,1,OK respectively, click on factory reset then confirm. it will restart and wait again for the blue screen and disconnect from power source"
     },
     {
-      title: "How to LDO",
+      title: "How to do LDO",
       content: "Open model 130 unit up to the motherboard and also remove the fan. Then right on the side there is an IC of U340 replace it and check if the unit powers on"
     },
     {
