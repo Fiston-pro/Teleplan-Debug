@@ -25,7 +25,7 @@ export default function ExpandCard(props) {
     const handleExpandClick = () => {
       setExpanded(!expanded);
     };
-  
+  // card
     return (
       <Card sx={{ maxWidth: 400, margin: 5 }}>
         
