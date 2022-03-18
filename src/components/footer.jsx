@@ -4,7 +4,7 @@ export const Footer = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Teleplan Debug Page. Design by Fiston.
+            &copy; 2022 Teleplan Debug Page. Designed and Developed by ISHIMWE.
           </p>
         </div>
       </div>
