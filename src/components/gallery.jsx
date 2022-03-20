@@ -7,7 +7,7 @@ export const Gallery = (props) => {
         <div className='section-title'>
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum sit amet, consectetur adipiscing elit duis sed
+            Lorem ips sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
           </p>
         </div>
